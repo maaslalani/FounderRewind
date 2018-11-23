@@ -53,6 +53,8 @@ table {
 
 body {
 	-webkit-text-size-adjust: none;
+	background-color: #2C3D55!important;
+  color: white!important;
 }
 
 mark {
@@ -117,7 +119,8 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #585858;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
+    font-family: Monaco;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
@@ -2684,35 +2687,35 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
-			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
-			}
+			/* .tiles article.style1 > .image:before { */
+			/* 	background-color: #f2849e; */
+			/* } */
 
-			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
-			}
+			/* .tiles article.style2 > .image:before { */
+			/* 	background-color: #7ecaf6; */
+			/* } */
 
-			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
-			}
+			/* .tiles article.style3 > .image:before { */
+			/* 	background-color: #7bd0c1; */
+			/* } */
 
-			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
-			}
+			/* .tiles article.style4 > .image:before { */
+			/* 	background-color: #c75b9b; */
+			/* } */
 
-			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
-			}
+			/* .tiles article.style5 > .image:before { */
+			/* 	background-color: #ae85ca; */
+			/* } */
 
-			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
-			}
+			/* .tiles article.style6 > .image:before { */
+			/* 	background-color: #8499e7; */
+			/* } */
 
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
 				-webkit-transform: scale(1.1);
 				-ms-transform: scale(1.1);
-				transform: scale(1.1);
+				transform: scale(1.0);
 			}
 
 				body:not(.is-touch) .tiles article:hover > .image:before {
@@ -3145,7 +3148,9 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #f6f6f6;
+		background-color: #3E4C5E;
+    color: white;
+    opacity: 0.5;
 	}
 
 		#footer > .inner {
