@@ -3,6 +3,7 @@ Marissa Meyer
 Elon Musk
 Jeff Bezos
 Sheryl Sandberg
+Oprah
 Kim Kardashian
 Marc Benioff
 Keith Rabois
@@ -11,7 +12,7 @@ Patrick Collison
 Sam Altman
 Paul Graham
 Ryan Peterson
-Danielle Morril
+Danielle Morrill
 Elad Gil
 Peter Thiel
 Katrina Lake
@@ -36,3 +37,4 @@ Michele Romanow
 Arlene Dickinson
 Barbara Corcoran
 Lori Greiner
+Jessica Livingston
