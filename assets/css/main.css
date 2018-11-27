@@ -2297,11 +2297,13 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+    background-color: black;
 	}
 
 		.image img {
 			border-radius: 4px;
 			display: block;
+      opacity: 0.5;
 		}
 
 		.image.left, .image.right {
